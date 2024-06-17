@@ -2,7 +2,7 @@ let row = 10;
 let col = 10; 
 let body = document.querySelector("body");
 
-let html = `<table border='1'>`;
+let html = `<table>`;
 
 // Creating table headers
 html += "<thead><tr>";
